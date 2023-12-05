@@ -99,3 +99,8 @@ footer a.btn-footer {
     margin: 0, 10px;
     transition: .2s;
 }
+
+footer p.copyrigth {
+    font-weight: 500px;
+    margin-top: 30px;
+}
