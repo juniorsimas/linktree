@@ -58,7 +58,7 @@ Este projeto está licenciado sob a Licença MIT. Isso significa que você pode 
 Meu nome é Júnior Simas, sou um desenvolvedor web apaixonado por tecnologia e inovação. Você pode entrar em contato comigo pelos seguintes meios:
 - E-mail: [juniorsimasdev@hotmail.com](mailto:juniorsimasdev@hotmail.com)
 - GitHub: [https://github.com/juniorsimas](https://github.com/juniorsimas)
-- LinkedIn: [https://www.linkedin.com/in/juniorsimas26](https://www.linkedin.com/in/juniorsimas26/)
+- LinkedIn: [https://www.linkedin.com/in/juniorsimas-analista/](https://www.linkedin.com/in/juniorsimas-analista/)
 - LinkTree: [https://juniorsimas.netlify.app](https://juniorsimas.netlify.app)
 
 ## Link do projeto online 🌐
